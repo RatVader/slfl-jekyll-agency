@@ -18,18 +18,27 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "We are a family law office specializing in:"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Divorce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+        icon: fa-solid fa-heart-crack #find more at https://fontawesome.com/icons
+      - title: "Parentage"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        icon: fa-solid fa-hands-holding-child
+      - title: "Custody and Support"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        icon: fa-solid fa-life-ring
+      - title: "Adoption"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fa-solid fa-children
+      - title: "Motions to Enforce"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fa-solid fa-hand
+      - title: "Decree Modifications"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fa-solid fa-pen-nib
 
   portfolio:
     title: "Portfolio"
