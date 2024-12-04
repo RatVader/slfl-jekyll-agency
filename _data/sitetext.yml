@@ -23,13 +23,13 @@ en: &DEFAULT_EN
     list:
       - title: "Divorce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fa-solid fa-heart-crack #find more at https://fontawesome.com/icons
+        icon: fas fa-heart-crack #find more at https://fontawesome.com/icons
       - title: "Parentage"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fa-solid fa-hands-holding-child
+        icon: fas fa-hands-holding-child
       - title: "Custody and Support"
         desc: "Your description here, full **Markdown** support"
-        icon: fa-solid fa-life-ring
+        icon: fas fa-life-ring
       - title: "Adoption"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fa-solid fa-children
