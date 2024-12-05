@@ -43,11 +43,9 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     # text: "our story"
-    body: "Salt Lake Family Law is committed to offering solid representation at an affordable cost. While the separation of families is usually a painful experience for both of the parties and for any children who may be involved, we help our clients obtain a result that everyone can live with.  We believe that compromise, whenever possible, will benefit families moving forward in their different paths. When compromise is not possible, we stand firmly with our clients while fighting for their needs, both in and out of court.
-
-Sheri Throop received her JD from the SJ Quinney School of Law at the University of Utah in 2012, and has been practicing Family Law since 2014. She has worked for a number of law firms as an independent contractor, and most recently worked at Legal Aid Society of Salt Lake from 2022 - 2024.
-
-Marsha Stroh received her Associates of Science Degree in Paralegal Studies and has been a practicing paralegal exclusively in family law since graduating in 2014. She completed extra courses at Utah Valley University to become a Licensed Paralegal Practitioner and passed the LPP Bar Exam in August of 2024, making her the 39th LPP in the state of Utah since the program's inception. Her direct email address is Marsha@SaltLakeFamilyLaw.com."
+    body: "Salt Lake Family Law is committed to offering solid representation at an affordable cost. While the separation of families is usually a painful experience for both of the parties and for any children who may be involved, we help our clients obtain a result that everyone can live with.  We believe that compromise, whenever possible, will benefit families moving forward in their different paths. When compromise is not possible, we stand firmly with our clients while fighting for their needs, both in and out of court."
+    body: "Sheri Throop received her JD from the SJ Quinney School of Law at the University of Utah in 2012, and has been practicing Family Law since 2014. She has worked for a number of law firms as an independent contractor, and most recently worked at Legal Aid Society of Salt Lake from 2022 - 2024."
+    body: "Marsha Stroh received her Associates of Science Degree in Paralegal Studies and has been a practicing paralegal exclusively in family law since graduating in 2014. She completed extra courses at Utah Valley University to become a Licensed Paralegal Practitioner and passed the LPP Bar Exam in August of 2024, making her the 39th LPP in the state of Utah since the program's inception. Her direct email address is Marsha@SaltLakeFamilyLaw.com."
     section: about
 
   portfolio:
