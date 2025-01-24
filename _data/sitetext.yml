@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     list:
       - title: "Divorce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fa-solid fa-heart-crack #find more at https://fontawesome.com/icons
+        image: assets/img/heart_broken_icon.png
       - title: "Parentage"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fa-solid fa-hands-holding-child
